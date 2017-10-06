@@ -11,4 +11,4 @@ Sorry for lack of comments in the source code. This change will also be done soo
 hsp.py : Actual file with the code.
 </br>word.py : File with the code implementing only w-mers fragmentation part.
 </br>query.txt : File consisting of dummy sequence of E.Coli genome.
-</br>assembly.txt : File consisting of database sequence of a part of E.Coli genome. As this algorithm has a time complexity of o(n^2), it is not possible to run a database search of actual genomic sequence.
+</br>assembly.txt : File consisting of database sequence of a part of E.Coli genome. As this algorithm has a time complexity of o(n^2), it is not possible to run a database search of actual genomic sequence on personal computers.
